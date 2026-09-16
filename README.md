@@ -4,7 +4,6 @@
 - 🔭 Atualmente trabalhando com Service Desk
 - 🌱 Bacharel em Ciências da Computação
 - 📫 E-mail de contato: Kaio.Vpereira@outlook.com
-- 💻 Aprendendo Delphi.
 - ❤🏀⚽🎮❤
 
 <div align="center">
